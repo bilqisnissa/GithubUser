@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Thomas Brodie-sangster</string>
+    <string name="location">London</string>
+    <string name="followers">Followers</string>
+    <string name="_100">100</string>
+    <string name="search">Search</string>
+    <string name="username">thomassangster</string>
+    <string name="follow">Follow</string>
+</resources>
